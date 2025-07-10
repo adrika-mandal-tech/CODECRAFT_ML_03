@@ -1,7 +1,9 @@
 # CODECRAFT_ML_03
 Pet-Image Classification for Dogs and Cats.
 This Repository contains Two methods for Image classification of dogs and cats:
+
  1)MACHINE LEARNING METHOD : by creating SUPPORT VECTOR MACHINE (SVM) Model
+
  2)DEEP LEARNNG METHOD : by creating CONVOLUTIONAL NEURAL NETWORK (CNN) Model
  
  Dataset Links:
