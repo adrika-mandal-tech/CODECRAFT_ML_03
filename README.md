@@ -7,7 +7,9 @@ This Repository contains Two methods for Image classification of dogs and cats:
  2)DEEP LEARNNG METHOD : by creating CONVOLUTIONAL NEURAL NETWORK (CNN) Model
  
  Dataset Links:
+
 1)for SVM: https://www.kaggle.com/datasets/salader/dogs-vs-cats
+
 2)for CNN: https://drive.google.com/drive/u/0/folders/1dZvL1gi5QLwOGrfdn9XEsi4EnXx535bD
  
 | Feature                | **CNN (Convolutional Neural Network)**                                         | **SVM (Support Vector Machine)**                                                     |
