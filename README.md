@@ -1,5 +1,8 @@
 # CODECRAFT_ML_03
 Pet-Image Classification for Dogs and Cats.
+Classification is a form of supervised machine learning in which the label represents a categorization, or class. There are two common classification scenarios-binary, multiclass
+In binary classification, the label determines whether the observed item is (or isn't) an instance of a specific class. Or put another way, binary classification models predict one of two mutually exclusive outcomes.
+
 This Repository contains Two methods for Image classification of dogs and cats:
 
  1)MACHINE LEARNING METHOD : by creating SUPPORT VECTOR MACHINE (SVM) Model
